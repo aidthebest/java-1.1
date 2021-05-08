@@ -7,16 +7,15 @@
 На тестирование затрачено: 1 час
 
 В результате тестирования выявлены следующие дефекты:
-* https://github.com/aidthebest/java-1.1/issues/1
-* <ссылка на описание дефекта>
-* <ссылка на описание дефекта>
+* [Дефект №1](https://github.com/aidthebest/java-1.1/issues/1)
+
 
 ## Описание процесса тестирования
 
 В процессе тестирования использовались следующие артефакты*:
-* Описание ДЗ (https://github.com/netology-code/javaqa-homeworks/tree/master/intro)
+* Описание ДЗ ([ссылка](https://github.com/netology-code/javaqa-homeworks/tree/master/intro))
 
-В качестве тестовых данных использовались данные c https://www.freeformatter.com/credit-card-number-generator-validator.html, изначально невалидные данные:
+В качестве тестовых данных использовались [эти данные](https://www.freeformatter.com/credit-card-number-generator-validator.html) и изначально невалидные данные:
 * 5351719427810741 - Валидация пройдена успешно
 * VISA 4024007124700278 - Валидация пройдена успешно
 * VISA 4539500929342012406 - Валидация пройдена успешно
